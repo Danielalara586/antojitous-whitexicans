@@ -14,7 +14,7 @@ export class OrderDetailService {
       description: "Scramble eggs with jam, tomato, onion and chilly pepper.\nCoffee.\nVanilla Concha\nIncludes a Ventana Cookie.",
       price: 60.00,
       type: "Breakfast",
-      image: "../../../assets/Paty-Chapoy.jpeg",
+      image: "https://www.milenio.com/uploads/media/2020/06/16/pati-chapoy-genera-memes-regreso_172_154_631_393.jpg",
       foodImg: "../../../assets/paty.jpg"
     },
     {
